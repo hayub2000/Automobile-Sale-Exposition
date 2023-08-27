@@ -1,4 +1,5 @@
 Problem Statement:
+
 Car Bazaars are common in our country, however no practical solutions were discovered
 to manage this data. There is a lot of data to work with, and no means or methods to
 organize this data, which is where this database comes in to provide convenience to all
@@ -6,6 +7,7 @@ parties involved in an orderly manner.
 
 
 Introduction:
+
 This system is about an Automobile Exposition held within City. Our project displays
 available used Vehicles to the Customers, which are provided by Dealers, sell through Staff
 and managed by the manager.
@@ -46,14 +48,14 @@ Entity-Relationship Diagram (ERD):
 
 
 
-Future work:
+**Future work:**
 
 Despite the numerous amounts of data & structure optimization we performed, we
 could’ve improved the database further in various places. Several features such as, making
 an official website where Customers & Dealers from all around the country can buy and
 sell vehicles on a much larger platform.
 
-Note:
+**Note:**
 
 In order to run this project, you'll need to XAMP to run phpMyAdmin and Apache for a server to host the site on.
 You must import the database into phpMyAdmin with the following details:
