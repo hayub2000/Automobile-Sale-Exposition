@@ -12,16 +12,16 @@ and managed by the manager.
 
 
 Technologies used
-o Xampp
-o phpMyAdmin
-o MySQL
-o HTML/CSS
-o Javascript
-o Visual Studio Code
-o Bootstrap Studio
+- Xampp
+- phpMyAdmin
+- MySQL
+- HTML/CSS
+- Javascript
+- Visual Studio Code
+- Bootstrap Studio
 
 
-Entity RElationship Diagram (ERD):
+Entity Relationship Diagram (ERD):
 
 
 ![1](https://github.com/hayub2000/Automobile-Sale-Exposition/assets/90406573/4c32d861-5dfb-4223-8f0c-1fdefc12aa67)
