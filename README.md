@@ -22,6 +22,8 @@ o Bootstrap Studio
 
 
 Entity RElationship Diagram (ERD):
+
+
 ![1](https://github.com/hayub2000/Automobile-Sale-Exposition/assets/90406573/4c32d861-5dfb-4223-8f0c-1fdefc12aa67)
 
 ![2](https://github.com/hayub2000/Automobile-Sale-Exposition/assets/90406573/5887a273-4040-40dd-80a6-510f79e19ce9)
