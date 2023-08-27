@@ -46,13 +46,15 @@ Entity-Relationship Diagram (ERD):
 
 
 
-Future work
+Future work:
+
 Despite the numerous amounts of data & structure optimization we performed, we
 could’ve improved the database further in various places. Several features such as, making
 an official website where Customers & Dealers from all around the country can buy and
 sell vehicles on a much larger platform.
 
 Note:
+
 In order to run this project, you'll need to XAMP to run phpMyAdmin and Apache for a server to host the site on.
 You must import the database into phpMyAdmin with the following details:
 
