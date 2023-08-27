@@ -21,10 +21,14 @@ Technologies used
 - Bootstrap Studio
 
 
-Entity Relationship Diagram (ERD):
+Entity-Relationship Diagram (ERD):
 
 
 ![1](https://github.com/hayub2000/Automobile-Sale-Exposition/assets/90406573/4c32d861-5dfb-4223-8f0c-1fdefc12aa67)
+
+
+![0](https://github.com/hayub2000/Automobile-Sale-Exposition/assets/90406573/bc0497d2-7bf8-41bf-99ec-7f1ad98c5ab3)
+
 
 ![2](https://github.com/hayub2000/Automobile-Sale-Exposition/assets/90406573/5887a273-4040-40dd-80a6-510f79e19ce9)
 
